@@ -1,4 +1,2 @@
 # kajalname-demo
-This is my first Git repository
-add next line 
- Auther - kajal maurya
+This is my first Git repositor Auther - kajal maurya
